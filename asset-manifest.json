@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio/static/css/main.fb17cc2b.css",
+    "main.js": "/github.io/portfolio/static/js/main.ebab440a.js",
+    "static/media/mongodb.png": "/github.io/portfolio/static/media/mongodb.6170bacefd8a1f69ca74.png",
+    "static/media/Nuxtjs.png": "/github.io/portfolio/static/media/Nuxtjs.068b1a04eb308c68ad09.png",
+    "static/media/reactnative.webp": "/github.io/portfolio/static/media/reactnative.6bf17d7dfac6daab5e82.webp",
+    "static/media/JS.png": "/github.io/portfolio/static/media/JS.e4a6603a50d997ebe438.png",
+    "static/media/HTML5.png": "/github.io/portfolio/static/media/HTML5.288e509b9f471582d837.png",
+    "static/media/CSS3.png": "/github.io/portfolio/static/media/CSS3.464b35f4d680d4a8106a.png",
+    "static/media/vuejs.png": "/github.io/portfolio/static/media/vuejs.ff6699021ac5c0c89b78.png",
+    "static/media/typescript.webp": "/github.io/portfolio/static/media/typescript.27c3b4efa2e7716e53cc.webp",
+    "index.html": "/github.io/portfolio/index.html",
+    "main.fb17cc2b.css.map": "/github.io/portfolio/static/css/main.fb17cc2b.css.map",
+    "main.ebab440a.js.map": "/github.io/portfolio/static/js/main.ebab440a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb17cc2b.css",
+    "static/js/main.ebab440a.js"
+  ]
+}
