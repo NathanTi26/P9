@@ -43,7 +43,7 @@
 			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311318927253566/sophiebluel3.png",
 			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311319225045062/sophiebluel4.png"
 		],
-		"description": "Sophie Bluel souhaitait développé son site afin de mettre en avant ses travaux. Après une maquette proposé, le site a été développé en HTML, CSS et javascript. Le back-end était déjà développé.",
+		"description": "Contraintes rencontrées : Mise en place du code javascript, interface de connexion et gestion des erreurs ainsi que de l'authentification. -> Solutionné par la mise en place d'un token d'authentification ainsi que la gestion des erreurs. Gestion des erreurs en log console ainsi quen HTML/CSS pour être vu par le client.",
 
 		"location": "Développement front-end - Javascript",
 		"equipments": [
@@ -80,7 +80,7 @@
 			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311319917109328/vieuxgrimoire2.png",
 			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311317895454870/vieuxgrimoire3.png"
 		],
-		"description": "Notre société a été mandatée pour réaliser le back end du site Mon vieux Grimoire. J'ai donc pu réaliser l'ajout, la suppression, la modification et la notation des livres ainsi que le système de connexion.",
+		"description": "Contraintes rencontrées : Gestion des erreurs qui ne sont pas géré par la partie Front-End -> Solutionné par un log en console des erreurs/informations non affichable.",
 
 		"location": "Développement Back-End - Javascript",
 		"equipments": [
